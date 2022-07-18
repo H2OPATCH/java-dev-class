@@ -1,0 +1,28 @@
+/* {
+    margin :auto;
+    padding :auto;
+} */
+
+.body{
+    height: auto;
+    width:auto;
+}
+
+.parent{
+    background-color: blue;
+    margin: auto;
+    padding: auto;
+    height:100% ;
+    width: 100%;
+}
+.child{
+    background-color: red;
+    margin: auto;
+    padding: auto;
+    height:100px;
+    width: 80%;
+}
+.bootstrap{
+    height: 100px;
+    width: 80px;
+} 
